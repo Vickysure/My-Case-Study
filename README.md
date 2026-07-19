@@ -62,7 +62,6 @@ This project applies several core Python concepts, including:
 - Comparison Operators
 - Assignment Operators
 - Boolean Logic
-- Conditional Statements (`if`, `elif`, `else`)
 - User Input
 - Print Formatting
 
@@ -137,7 +136,7 @@ Feedback, suggestions, and constructive criticism are always welcome.
 Aspiring Data Analyst | Python Learner
 
 - LinkedIn: *(https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B8yvO3gtERtmYv6oGpJ8AnA%3D%3D)*
-- GitHub: *(Add your GitHub profile link here)*
+- GitHub: *(Vickysure)*
 
 ---
 
