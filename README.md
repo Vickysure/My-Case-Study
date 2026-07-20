@@ -1,4 +1,4 @@
-#  Case Study - Sales Forecasting Engine with Python
+#  Sales Forecasting Engine with Python
 
 ## Project Overview
 
