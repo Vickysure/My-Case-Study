@@ -26,6 +26,12 @@ Using Python, this project analyzes:
 
 ---
 
+<p align="center">
+<img src="./screenshots/Creating Stock Variables.png" width="900">
+</p>
+
+---
+
 ## Products Analyzed
 
 -  Wireless Mouse
@@ -79,7 +85,25 @@ This project applies several core Python concepts, including:
 - Restocking Status
 
 ---
+<p align="center">
+<img src="./screenshots/Calculating Key Business Metrics.png/Calculating Key Business Metrics 2.png" width="900">
+</p>
 
+---
+## Forecast Report of Both Products Demonstrated
+
+#### Forecast Report on Product 1: Wireless Mouse
+<p align="center">
+<img src="./screenshots/Forecast Report 1.png" width="900">
+</p
+
+#### Forecast Report on Product 2: Bluetooth Speaker
+<p align="center">
+<img src="./screenshots/Forecast Report 2.png" width="900">
+</p>
+
+  ---
+  
 ## Business Questions Answered
 
 This project helps answer questions such as:
@@ -89,6 +113,12 @@ This project helps answer questions such as:
 - Does any product require immediate restocking?
 - Which product should receive additional marketing attention?
 - Is current inventory sufficient for expected demand?
+
+---
+
+<p align="center">
+<img src="./screenshots/Business Questions Answered.png" width="900">
+</p>
 
 ---
 
