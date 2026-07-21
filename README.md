@@ -108,7 +108,7 @@ The key business metrics were then evaluated
 </p>
 
 <p align="center">
-<img src="./screenshot/Calculating key Business Metrics 2.png" width="900">
+<img src="./screenshot/Calculating Key Business Metrics 2.png" width="900">
 </p>
 
 ## 4. Forecast Report of Both Products Demonstrated
