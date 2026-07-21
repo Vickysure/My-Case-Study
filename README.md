@@ -114,12 +114,12 @@ The key business metrics were then evaluated
 ## 4. Forecast Report of Both Products Demonstrated
 #### Forecast Report on Product 1: Wireless Mouse
 <p align="center">
-<img src="./screenshot/Forecast Report 1.png" width="900">
+<img src="./screenshot/Forecast report 1.png" width="900">
 </p
 
 #### Forecast Report on Product 2: Bluetooth Speaker
 <p align="center">
-<img src="./screenshot/Forecast Report 2.png" width="900">
+<img src="./screenshot/Forecast report 2.png" width="900">
 </p>
 
   ---
